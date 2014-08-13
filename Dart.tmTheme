@@ -8,12 +8,12 @@
 <dict>
   <key>gutterSettings</key>
   <dict>
-<!--    <key>background</key>
+   <key>background</key>
     <string>#FFFFFF</string>
     <key>divider</key>
     <string>#FFFFFF</string>
     <key>foreground</key>
-    <string>#9fabb2</string> -->
+    <string>#9fabb2</string>
   </dict>
   <key>name</key>
   <string>Dart</string>

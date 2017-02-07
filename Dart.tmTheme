@@ -89,10 +89,7 @@
 			<key>scope</key>
 			<string>variable</string>
 			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string> bold</string>
-			</dict>
+			<dict></dict>
 		</dict>
 		<dict>
 			<key>name</key>
